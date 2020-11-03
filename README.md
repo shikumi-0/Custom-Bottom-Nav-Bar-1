@@ -7,3 +7,6 @@
 - Clone the repo
 - Install the dependicies
 - Run it
+
+
+<img src="cbnb.jpg" width="250">  
